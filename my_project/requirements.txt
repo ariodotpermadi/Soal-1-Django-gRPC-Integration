@@ -1,0 +1,4 @@
+Django==4.2
+grpcio==1.58
+grpcio-tools==1.58
+uvicorn==0.22.0
